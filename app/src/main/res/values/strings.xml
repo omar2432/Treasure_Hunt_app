@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Treasure_Hunt_app</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_lat">0.0</string>
+    <string name="default_lng">0.0</string>
+    <string name="enable_gps">Please Enable GPS</string>
+    <string name="required_for_this_app">This app needs GPS location or it will not work!</string>
+    <string name="ok">Enable Now!</string>
+    <string name="show_rational">GPS Permission Needed</string>
+    <string name="msg_body">This app needs GPS location Permission or it will not work!</string>
+    <string name="permission">Ok. Got it!</string>
+
+</resources>
